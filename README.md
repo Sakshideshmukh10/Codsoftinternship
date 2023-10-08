@@ -1,2 +1,2 @@
-# Codsoftinternship
+# Codsoftinternshipcalculator
 Codsoft Internship 
